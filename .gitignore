@@ -6,3 +6,6 @@
 /Plugins
 *.sln
 *_BuiltData.uasset
+/Binaries
+/DerivedDataCache
+/.idea
